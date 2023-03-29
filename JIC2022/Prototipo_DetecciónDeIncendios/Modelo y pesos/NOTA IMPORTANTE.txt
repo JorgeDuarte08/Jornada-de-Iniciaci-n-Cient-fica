@@ -1,0 +1,2 @@
+la carpeta modelo si debe estar localizada en el disco local o algun otro
+, solo cambiar dirección del archivo

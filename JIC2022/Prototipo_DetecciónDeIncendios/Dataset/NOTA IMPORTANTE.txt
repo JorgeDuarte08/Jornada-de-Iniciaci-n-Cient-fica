@@ -1,0 +1,3 @@
+El data set es solo leído por el programa solo si esta en google drive
+solo agregar las carpetas a drive y cambiar la direccion en el proyecto
+
